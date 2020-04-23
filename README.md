@@ -11,7 +11,7 @@ Free to use, any person can do anything with it,
   - You can sent *`text, image, file, emoji, current location`* etc. 
   - You can also **`video call`** with anyone.
   
-<img src="https://github.com/sunanda35/WhatzzChat/blob/master/screenshots/Screenshot_2020-04-06-03-02-51-310_com.sunanda.whatzzchat.jpg" width="25%"><img src="https://github.com/sunanda35/WhatzzChat/blob/master/screenshots/Screenshot_2020-04-06-03-01-46-557_com.sunanda.whatzzchat.jpg?raw=true" width="25%"><img src="https://github.com/sunanda35/WhatzzChat/blob/master/screenshots/Screenshot_2020-04-06-03-00-00-872_com.sunanda.whatzzchat.jpg?raw=true" width="25%"><img src="https://github.com/sunanda35/WhatzzChat/blob/master/screenshots/Screenshot_2020-04-06-03-01-15-088_com.sunanda.whatzzchat.jpg?raw=true" width="25%">
+<img src="https://github.com/sunanda35/WhatzChat/blob/master/screenshots/Screenshot_2020-04-06-03-02-51-310_com.sunanda.whatzzchat.jpg?raw=true" width="25%"><img src="https://github.com/sunanda35/WhatzChat/blob/master/screenshots/Screenshot_2020-04-06-03-01-46-557_com.sunanda.whatzzchat.jpg?raw=true" width="25%"><img src="https://github.com/sunanda35/WhatzChat/blob/master/screenshots/Screenshot_2020-04-06-03-00-00-872_com.sunanda.whatzzchat.jpg?raw=true" width="25%"><img src="https://github.com/sunanda35/WhatzChat/blob/master/screenshots/Screenshot_2020-04-06-03-01-15-088_com.sunanda.whatzzchat.jpg?raw=true" width="25%">
 
 ## This app use
  - *`Firebase firestore`* to store messages and data.
